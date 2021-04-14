@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "elearning-text-to-speech",
+  "private_key_id": "908bcbd8614da0a47fcb4931a22de66c7e039bbb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbw+ELuGaWbKA2\n/s4e1BEsNTOx1U57MJk1ptynpkY8A6PPdPZBR5ubrAD62kl5a/XZn1uXK3oJiEz7\n4duRr2si66m9uX/r+vRDUmVsZy+GaH92g89k/Edwv48HA1ewPKy1OQL80w6OqEk/\n2U5fRu6Qr3bNmAUZeFNkz/irY7yFIr0vSvrB8eRN01Fm83qNqUPd0cRNDEj3BL1G\nvvTOEYsc4+Wm9LHgEU9vcx4z648bwEN0fGCwYzaidBKu3wEDseoRcBZX2U4wkMg+\n4+8RtfTW/utXhKQofunbvIBQZpGntuufX1/jRBPkh2VypdgRSR3gn9lMqxmiXkGk\nng+P2UiHAgMBAAECggEAA6bYmXpB8iPx8ZgAUtDRTDvCFSVnPXLMSPDx37NKnXqu\nASd/ZAxNkKOmDIUODX92wVv9iKCHUZs7NEBHhr80d4sU8fsgHgq4flnjJ477Yi9g\nVtbP3my2vy/fr40lqt8HO6er3gmfx00SkoYI4FpsYmkX/0iUZRzzvcwa5LYujsPC\nIQiOwK9+rDdu8BnD/gyyg1y+Gv5nfF2rstfrrT0Y+nKmd2PIs9Z80YU71OOLp5Pp\n7NltgZtnclR8iadt1WaY5n2QiWEMeG3tIhP7ZQat0hkSyk64bbY0gSR9mqJv1/te\njEr78jq0Sy/UMt0vrU9+uqwGGh2MDuS5g4Kp1Px5mQKBgQDtUm86JJ/Njr6Y3CaM\nNZzdJjp1ngOrOGSwIE97CAE/Xjva83zcyiv95R788SNuRr3fYd9HlJxN4yQ3oVnT\nLOtZ4tS6i6phtaX0GR8aAnTZVx0lgdtnip63K4m20vyuW+2+Hz+cwiV0+7VdRLXz\nqrk2Bq6vdfsJIvDAfLKZcI1VjQKBgQDtD7V8JlAfv0qEduN6BhRC+KXFsfhIdx/r\nLZPKXjZT2CHVGAXMPdB6NPuoZuUmcehqAV64A1mV08eKn4Ly39enMvbMLZpjyZM/\nV5QPW2b9snLXnGrEoBPdRfG64rj/LAAPuZfUtcVnOLfZAD3PmNQRp+2wvZ3sMTKj\nqDsSiBG/YwKBgQCTeCoNozx56z2clxCNB7OV6G9jLvFwr/ZBS5KYDP1ZdyESiUMJ\nn8d+WaXL37v4hpTt/k9Ul5AZBhA3UVgT1VHZ5Q3zbV5OoSWibQnai7Q4ad1+tRa1\nXHoLsE4/ARRq9EzjW1+X9Tx5WP/2GQBHjcrRO43JEjMQFlosAlCo8Dui8QKBgH8A\nGXRHeklny94nazqmIxi16Ol+rMr1ts3hfvm9e1FzyrxEwGZo/1VZKTFQ3pa4E5Em\n5r2iXc4cxRwI1LiVHw1eCkXccIfhJ9eZbaLEjup/PXMxQynPsJSsshIzAHUD94x1\nG1hDgVwJUMUakgKzl3lWA8rZ6s7slHqE2BDXgNqNAoGADAZhKYD0VUB+g4qEj40D\nLmyJkAAh3haIaW1YQnnX8HPNmIM+zzPcATTFWF47KoUpWzNJ7zYI2ZCS/ySMvN+d\n7Q5DhFTtCfoxEwr4F4rW7lPXO7JALnp1WtiC72fkObygxeOTv8PXgXJx6oQclidR\nSx5mpeAmjwEswmE1o6KjVU8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "elearningttspeech@elearning-text-to-speech.iam.gserviceaccount.com",
+  "client_id": "103770148974085740708",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/elearningttspeech%40elearning-text-to-speech.iam.gserviceaccount.com"
+}

@@ -1,0 +1,9 @@
+array (
+  'status' => true,
+  'errors' => 
+  array (
+    0 => 'readfile ok 11',
+  ),
+  'readfileStatus' => true,
+  'aborted' => false,
+)
